@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "retirement-plan",
+    "slug": "retirement-plan",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "retirement-plan"
+}
